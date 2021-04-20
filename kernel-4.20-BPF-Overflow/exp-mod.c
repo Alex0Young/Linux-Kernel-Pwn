@@ -1,3 +1,5 @@
+//Author A1ex
+//reference Wei Wu
 #define _GNU_SOURCE
 #define SPRAY_NUMBER 14
 
